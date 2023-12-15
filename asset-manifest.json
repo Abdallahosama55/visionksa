@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/visionksa/static/css/main.9f7eea44.css",
+    "main.js": "/visionksa/static/js/main.0aebb64b.js",
+    "static/js/787.9f5f11ae.chunk.js": "/visionksa/static/js/787.9f5f11ae.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/visionksa/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/visionksa/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/image 183.png": "/visionksa/static/media/image 183.ccd8600e8e7192254966.png",
+    "index.html": "/visionksa/index.html",
+    "main.9f7eea44.css.map": "/visionksa/static/css/main.9f7eea44.css.map",
+    "main.0aebb64b.js.map": "/visionksa/static/js/main.0aebb64b.js.map",
+    "787.9f5f11ae.chunk.js.map": "/visionksa/static/js/787.9f5f11ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7eea44.css",
+    "static/js/main.0aebb64b.js"
+  ]
+}
