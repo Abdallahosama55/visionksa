@@ -1,0 +1,57 @@
+@import url(https://db.onlinewebfonts.com/c/a831675c355af267d4dade89bf89e1f2?family=F29LT+Riwaya+Italic);
+  
+  
+  body {
+    font-family: 'F29LT Riwaya Italic', sans-serif; /* Use the font-family in your styles */
+
+  }
+  .container_About{
+    background: linear-gradient(to right, #ffffff,rgb(253, 246, 252));
+}
+
+.img-vector{
+    background-image: url('../../assets/Group\ 1000008081.png');
+
+}
+p{
+    font-family: "F29LT Riwaya Italic";
+    font-family: 29LT Riwaya;
+font-size: 20px;
+font-weight: 500;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: right;
+
+color: #454545;
+
+}
+h2{
+    font-family: "F29LT Riwaya Italic";
+    font-weight: bolder;
+
+
+}
+.btn-submit{
+    width: 211px;
+height: 47px;
+
+border-radius: 5px;
+background-color:#545353;
+border-style: none;
+color: white;
+
+
+}
+
+
+.btn-submit :hover{
+    width: 211px;
+height: 47px;
+
+border-radius: 5px;
+background-color:#393939;
+border-style: none;
+color: white;
+
+
+}

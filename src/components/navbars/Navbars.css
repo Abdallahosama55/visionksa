@@ -1,0 +1,26 @@
+/* Add media query for small screens */
+@import url(https://db.onlinewebfonts.com/c/a831675c355af267d4dade89bf89e1f2?family=F29LT+Riwaya+Italic);
+  
+@media (max-width: 768px) {
+    .icon-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: lightgray; /* Adjust background color as needed */
+      margin: 5px; /* Add margin for spacing between icons */
+    }
+  }
+  Nav a{
+    font-family: 'F29LT Riwaya Italic', sans-serif; /* Use the font-family in your styles */
+text-decoration: none;
+padding: 10px;
+    color: rgb(62, 62, 62) !important;
+    font-weight: 700;
+  }
+
+  Nav a:hover{
+    font-family: 'F29LT Riwaya Italic', sans-serif; /* Use the font-family in your styles */
+text-decoration: none;
+padding: 10px;
+    color: rgb(10, 10, 10) !important;
+  }
