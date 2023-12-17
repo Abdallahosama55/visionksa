@@ -3,6 +3,7 @@ import { Container } from 'react-bootstrap';
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
 import Swal from 'sweetalert2';
+import { Fade, Zoom } from 'react-reveal';
 
 function Rate_services() {
   const validationSchema = Yup.object().shape({
@@ -53,10 +54,13 @@ function Rate_services() {
         <div className='row justify-content-center align-items-center mt-5 pt-5'>
           <div className='col-md-10'>
             <div className='container'>
+            <Fade right>
               <div className='d-flex justify-content-start align-items-center'>
                 <img src={require('../../assets/Frame (1).png')} width={50} height={50} alt="Logo" />
                 <h2 className='p-3'>قيم خدمتنا</h2>
               </div>
+              </Fade>
+              <Zoom>
               <form onSubmit={formik.handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6 p-3'>
@@ -147,6 +151,7 @@ function Rate_services() {
                   </button>
                 </div>
               </form>
+              </Zoom>
             </div>
           </div>
         </div>

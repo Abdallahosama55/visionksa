@@ -1,0 +1,160 @@
+p{
+ 
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: right;
+color: #454545;
+}
+h2{
+   
+font-size: 30px;
+font-weight: 700 !important;
+line-height: 42px;
+letter-spacing: 0em;
+
+
+}
+span{
+
+font-size: 15px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color:#A034B4;
+}
+.img-landing{
+    background-image: url('../../assets/Group\ 1000006486\ \(6\).png');
+
+}
+.apple_btn{
+border-style: none;
+    background-color: transparent;
+    background-image: url('../../assets/pngegg\ \(25\)\ 3.png');
+    width: 133px;
+    height: 45px;
+    
+}
+.Goagle_btn{
+    background-image: url('../../assets/pngegg\ \(25\)\ 4.png');
+    width: 128px;
+    height: 45px;
+    border-style: none;
+    background-color: transparent;
+}
+.whatsup{
+
+    background-image: url('../../assets/Group\ 1000006482.png');
+    width: 99.47px;
+    height: 45px;
+    border-radius: 40px;
+    border-style: none;
+
+}
+
+.servivesPargraph{
+   
+font-size: 18px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.vsion-paragraph{
+
+font-size: 20px;
+font-weight: 500;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: right;
+color:#636363;
+}
+.payment-text p{
+color: #2B2C41;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: right;
+
+
+
+}
+.payment-text span{
+    font-family: 29LT Riwaya;
+font-size: 30px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0.20000000298023224px;
+text-align: right;
+
+font-family: Cairo;
+font-size: 30px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0.20000000298023224px;
+text-align: right;
+color:#A034B4;
+
+
+}
+.payment-text h2 {
+
+font-size: 30px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0.20000000298023224px;
+text-align: right;
+
+font-family: Cairo;
+font-size: 30px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0.20000000298023224px;
+text-align: right;
+
+
+}
+.payment{
+    background-color: #D9D9D930;
+}
+
+/* Media queries for mobile screens */
+@media only screen and (max-width: 576px) {
+    .apple_btn{
+margin-right: 150px !important;
+background-image: url('../../assets/pngegg\ \(25\)\ 3.png');
+background-repeat: no-repeat;
+background-size: cover;
+width: 128px;
+height: 45px;
+margin:15px;
+scale:1.25;
+
+            
+        }
+        .Goagle_btn{
+            margin-right: 150px !important;
+            width: 128px;
+height: 45px;
+            background-repeat: no-repeat;
+background-size: cover;
+            scale:1.25;
+
+        }
+
+        .title-sec3{
+            justify-content:center;
+        }
+        .span-sec3{
+            text-align: center !important;
+                justify-content:center !important;
+            
+        }
+
+      
+        
+  }

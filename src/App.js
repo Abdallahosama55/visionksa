@@ -18,10 +18,10 @@ function App() {
     <Navbars/>
 
         <Routes>
-        
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/Backup" element={<Backup/>} />
-        <Route path="/" element={<Home />} />
+    
       </Routes>
       
       
