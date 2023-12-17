@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/visionksa/static/css/main.9f7eea44.css",
-    "main.js": "/visionksa/static/js/main.0aebb64b.js",
-    "static/js/787.9f5f11ae.chunk.js": "/visionksa/static/js/787.9f5f11ae.chunk.js",
+    "main.css": "/visionksa/static/css/main.8a7956de.css",
+    "main.js": "/visionksa/static/js/main.ddfddbbb.js",
+    "static/js/787.20aed874.chunk.js": "/visionksa/static/js/787.20aed874.chunk.js",
     "static/media/bootstrap-icons.woff?": "/visionksa/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/visionksa/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/back.png": "/visionksa/static/media/back.509d3599e25ae9b287c4.png",
     "static/media/image 183.png": "/visionksa/static/media/image 183.ccd8600e8e7192254966.png",
+    "static/media/Group 1000006479.png": "/visionksa/static/media/Group 1000006479.b4fc8a13414ae87994b1.png",
+    "static/media/Rectangle 25620.png": "/visionksa/static/media/Rectangle 25620.0da1e79f1d8142661e41.png",
+    "static/media/feature_2.png.png": "/visionksa/static/media/feature_2.png.508fe2f6e2626d9da5c7.png",
+    "static/media/Rectangle 25611.png": "/visionksa/static/media/Rectangle 25611.92fb520e4071fe0593a4.png",
+    "static/media/Rectangle 25618.png": "/visionksa/static/media/Rectangle 25618.e9c10a1a08d526528805.png",
+    "static/media/Rectangle 25619.png": "/visionksa/static/media/Rectangle 25619.34fc0952a061802f6e37.png",
+    "static/media/slick.svg": "/visionksa/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/visionksa/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/visionksa/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/visionksa/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/visionksa/index.html",
-    "main.9f7eea44.css.map": "/visionksa/static/css/main.9f7eea44.css.map",
-    "main.0aebb64b.js.map": "/visionksa/static/js/main.0aebb64b.js.map",
-    "787.9f5f11ae.chunk.js.map": "/visionksa/static/js/787.9f5f11ae.chunk.js.map"
+    "main.8a7956de.css.map": "/visionksa/static/css/main.8a7956de.css.map",
+    "main.ddfddbbb.js.map": "/visionksa/static/js/main.ddfddbbb.js.map",
+    "787.20aed874.chunk.js.map": "/visionksa/static/js/787.20aed874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f7eea44.css",
-    "static/js/main.0aebb64b.js"
+    "static/css/main.8a7956de.css",
+    "static/js/main.ddfddbbb.js"
   ]
 }
